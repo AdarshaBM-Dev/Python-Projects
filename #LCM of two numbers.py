@@ -4,6 +4,7 @@
 #the value which is evenly divsible
 # by the two  gen number
 
+
 x = int(input("enter number >> "))
 y = int(input("enter number >> "))
 
@@ -16,5 +17,6 @@ while(True):
         lcm = greater
         break
     greater += 1
+
 
 print(f"LCM of {x} and {y} is {lcm}")
