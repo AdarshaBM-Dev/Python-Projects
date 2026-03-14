@@ -7,8 +7,7 @@ class Team:
         if self.name == "RCB":
             return "Ee sala cup namde...."
         elif self.name == "CSK":   
-            return "Eradu sala ban agilla"
-
+            return "Eradu sala ban agilla    
 t1 = Team()
 t1.name = "RCB"
 t1.capt = "VK    
