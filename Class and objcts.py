@@ -4,7 +4,7 @@ class Team:
     ban = 0
 
     def winRCBFansReview (self):
-        if self.name == "RCB":
+        if self.name == "RCB":   
             return "Ee sala cup namde...."
         elif self.name == "CSK":   
             return "Eradu sala ban agilla    
