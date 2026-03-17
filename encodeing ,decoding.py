@@ -8,7 +8,7 @@ message2 = "SSBMb3ZlIFlvdQ=="
 message2_in_bytes = bytes(message2,"utf-8")
 decoded_message = base64.b64decode(message2_in_bytes)
 
-print(f"EnCoded: {encoded_message} DeCoded: {decoded_message}")
+print(f"EnCoded: {encoded_message} DeCoded: {decoded_message}")   
 
 #user side
 import base64
