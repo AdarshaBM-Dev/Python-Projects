@@ -1,4 +1,4 @@
-import random
+ import random
 
 secretnum = random.randint(0,50)
 #print(secretnum)
