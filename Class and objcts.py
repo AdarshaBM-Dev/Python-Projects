@@ -1,5 +1,5 @@
 class Team:
-    name = ""
+    name = ""  
     capt = "" 
     ban = 0
 
