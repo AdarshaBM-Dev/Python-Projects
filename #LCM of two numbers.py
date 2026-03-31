@@ -7,7 +7,7 @@
 
 x = int(input("enter number >> "))
 y = int(input("enter number >> "))
-
+  
 if x>y:
     greater = x
 else:
