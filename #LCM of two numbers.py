@@ -19,5 +19,5 @@ while(True):
     greater += 1 
 
 
-print(f"LCM of {x} and {y} is {lcm}")
+print(f"LCM of {x} and {y} is {lcm}")  
 
