@@ -1,6 +1,6 @@
 word = "Malayalam".lower()
 word_bacwords = word[::-1]
-if word==word_bacwords:
+if word==word_bacwords: 
     print("Its a polindrome")
 else:
     print("Its not a polindrom")
