@@ -5,7 +5,7 @@ secretnum = random.randint(0,50)
 count = 1 
 while(True):
     guess = int(input("guess the number (0-50) >> "))
-    if guess ==  secretnum:
+    if guess ==  secretnum:  
         print("you guessed it right. Victory")
         break
     else:
