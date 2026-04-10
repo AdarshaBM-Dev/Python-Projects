@@ -1,7 +1,7 @@
  import random
 
 secretnum = random.randint(0,50)
-#print(secretnum)   
+#print(secretnum)    
 count = 1 
 while(True):
     guess = int(input("guess the number (0-50) >> "))
