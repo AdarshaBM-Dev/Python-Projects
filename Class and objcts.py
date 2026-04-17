@@ -2,7 +2,7 @@ class Team:
     name = ""  
     capt = ""   
     ban = 0
-  
+    
     def winRCBFansReview (self):
         if self.name == "RCB":     
             return "Ee sala cup namde...."
