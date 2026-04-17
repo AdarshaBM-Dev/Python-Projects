@@ -16,5 +16,5 @@ t2 = Team()
 t2.name = "CSK"
 t2.capt = "MSD"
 
-print(t1.winRCBFansReview())
+print(t1.winRCBFansReview())   
 print(t2.winRCBFansReview())
