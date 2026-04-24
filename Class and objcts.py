@@ -5,7 +5,7 @@ class Team:
     
     def winRCBFansReview (self):
         if self.name == "RCB":     
-            return "Ee sala cup namde...."
+            return "Ee sala cup namde...."  
         elif self.name == "CSK":   
             return "Eradu sala ban agilla      
 t1 = Team()
