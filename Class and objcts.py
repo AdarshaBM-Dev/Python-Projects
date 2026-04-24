@@ -1,6 +1,6 @@
 class Team:
     name = ""  
-    capt = ""   
+    capt = ""      
     ban = 0
     
     def winRCBFansReview (self):
