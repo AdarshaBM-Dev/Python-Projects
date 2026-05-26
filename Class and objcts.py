@@ -10,7 +10,7 @@ class Team:
             return "Eradu sala ban agilla      
 t1 = Team()
 t1.name = "RCB"
-t1.capt = "VK    
+t1.capt = "VK       
 
 t2 = Team()
 t2.name = "CSK"
