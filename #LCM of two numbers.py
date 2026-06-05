@@ -5,7 +5,7 @@
 # by the two  gen number    
 
 
-x = int(input("enter number >> "))
+x = int(input("enter number >> "))  
 y = int(input("enter number >> "))
   
 if x>y:
