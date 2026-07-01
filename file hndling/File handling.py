@@ -3,7 +3,7 @@
 #x - create and write
 #r - read
 #t -text
-#b - binary
+#b - binary 
 '''f = open("Adarsha.jpg", "rb")
 print(f.read())
 
