@@ -8,7 +8,7 @@ while(True):
     if guess ==  secretnum:     
         print("you guessed it right. Victory")
         break
-    else:
+    else:   
         print("Oh no! Try Again")
         count += 1
 
