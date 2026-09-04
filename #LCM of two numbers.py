@@ -1,7 +1,7 @@
 #LCM of two numbers
 #LCM - Least common Multiple 
 #in Mathematics , Lcm of any two number its  
-#the value which is evenly divsible
+#the value which is evenly divsible 
 # by the two  gen number      
   
 x = int(input("enter number >> "))    
