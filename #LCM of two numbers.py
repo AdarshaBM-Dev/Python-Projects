@@ -3,8 +3,7 @@
 #in Mathematics , Lcm of any two number its  
 #the value which is evenly divsible
 # by the two  gen number      
-
-
+  
 x = int(input("enter number >> "))    
 y = int(input("enter number >> "))
   
