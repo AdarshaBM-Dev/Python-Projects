@@ -1,7 +1,7 @@
 class Team:
     name = ""  
     capt = ""        
-    ban = 0
+    ban = 0  
     
     def winRCBFansReview (self):    
         if self.name == "RCB":       
